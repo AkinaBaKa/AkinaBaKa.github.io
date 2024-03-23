@@ -14,8 +14,8 @@ menu:
    #Tags: /tags/ || fas fa-tags
    Categories: /categories/ || fas fa-folder-open
    List||fas fa-list:
-     Music: /tags/music/ || fas fa-music
-     Game: /tags/game/ || fas fa-gamepad
+     Music: /tags/音乐/ || fas fa-music
+     Game: /tags/游戏/ || fas fa-gamepad
   #   Movie: /movies/ || fas fa-video
    Link: /link/ || fas fa-link
    About: /about/ || fas fa-heart

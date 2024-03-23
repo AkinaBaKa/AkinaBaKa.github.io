@@ -1,5 +1,13 @@
 ---
-title: 欢迎1
+title: 【东方同人音乐】幽梦~Inanimate Dream
+cover: /img/标题9id.png
+index_enable: true
+aside_enable: true
+archives_enable: true
+position: both
+top_img: /img/标题9id.png
+keywords: Mushup
+tags:
+ 音乐
 ---
-这里是笨蛋秋名(AkinaBaKa)的博客.
-少女建设中...
+https://www.bilibili.com/video/BV1uc411x7dB/?spm_id_from=333.999.0.0
