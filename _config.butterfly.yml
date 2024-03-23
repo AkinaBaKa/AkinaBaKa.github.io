@@ -229,8 +229,8 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-github
-      text: Follow Me
+      icon: fa-brands fa-bilibili
+      text: 求关注啦
       link: https://github.com/AkinaBaKa
   card_announcement:
     enable: true
