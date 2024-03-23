@@ -40,7 +40,7 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: /img/fumo9.png
 
 # Avatar (頭像)
 avatar:
@@ -54,10 +54,10 @@ disable_top_img: false
 index_img: /img/dai9.png
 
 # If the banner of page not setting, it will show the top_img
-default_top_img:
+default_top_img: /img/dai9.png
 
 # The banner image of archive page
-archive_img:
+archive_img: /img/aki.jpg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
