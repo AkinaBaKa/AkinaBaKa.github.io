@@ -1,6 +1,5 @@
 ---
-title: [东方Remix]InanimateDream
-#top_img: /img/标题9.png
-#tags: music
+title: 欢迎1
 ---
-你先别急
+这里是笨蛋秋名(AkinaBaKa)的博客.
+少女建设中...
