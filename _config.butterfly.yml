@@ -40,7 +40,7 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: C:\9\dai9.png
+favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
