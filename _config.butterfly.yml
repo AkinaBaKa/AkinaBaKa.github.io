@@ -15,6 +15,7 @@ menu:
    Categories: /categories/ || fas fa-folder-open
    List||fas fa-list:
      Music: /music/ || fas fa-music
+     Game: /game/ || fas fa-game
   #   Movie: /movies/ || fas fa-video
    Link: /link/ || fas fa-link
    About: /about/ || fas fa-heart
