@@ -30,11 +30,11 @@ highlight_height_limit: false # unit: px
 code_word_wrap: false
 
 # Social Settings (社交圖標設置)
-# formal:
-#   icon: link || the description || color
+ formal:
+   icon: fa-brands fa-bilibili || 给笨蛋点个关注吧~ || '#4a7dbe'
 social:
    fab fa-github: https://github.com/AkinaBaKa || Github || '#24292e'
-   fas fa-envelope: https://space.bilibili.com/498496480?spm_id_from=333.337.search-card.all.click || Bilibili || '#4a7dbe'
+   fa-brands fa-bilibili: https://space.bilibili.com/498496480?spm_id_from=333.337.search-card.all.click || Bilibili || '#4a7dbe'
 
 # Image (圖片設置)
 # --------------------------------------
@@ -45,7 +45,7 @@ favicon: /img/fumo9.PNG
 # Avatar (頭像)
 avatar:
   img: /img/daichan.png
-  effect: true
+  effect: false
 
 # Disable all banner image
 disable_top_img: false
