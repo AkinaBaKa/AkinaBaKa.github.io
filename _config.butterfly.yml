@@ -232,10 +232,10 @@ aside:
       enable: true
       icon: fa-brands fa-bilibili
       text: 求关注啦
-      link: https://github.com/AkinaBaKa
+      link: https://space.bilibili.com/498496480?spm_id_from=333.337.search-card.all.click
   card_announcement:
     enable: true
-    content: 欢迎来到笨蛋的小窝
+    content: 欢迎来到笨蛋的小窝~
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
