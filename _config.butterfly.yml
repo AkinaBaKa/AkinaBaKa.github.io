@@ -30,7 +30,7 @@ highlight_height_limit: false # unit: px
 code_word_wrap: false
 
 # Social Settings (社交圖標設置)
- formal:
+formal:
    icon: fa-brands fa-bilibili || 给笨蛋点个关注吧~ || '#4a7dbe'
 social:
    fab fa-github: https://github.com/AkinaBaKa || Github || '#24292e'
@@ -278,10 +278,10 @@ busuanzi:
   page_pv: true
 
 # Time difference between publish date and now (網頁運行時間)
-# Formal: Month/Day/Year Time or Year/Month/Day Time
+ Formal: Year/Month/Day Time
 runtimeshow:
-  enable: false
-  publish_date:
+  enable: true
+  publish_date: 2024/03/23
 
 # Aside widget - Newest Comments
 newest_comments:
@@ -477,7 +477,7 @@ facebook_comments:
   user_id: # optional
   pageSize: 10 # The number of comments to show
   order_by: social # social/time/reverse_time
-  lang: zh_TW # Language en_US/zh_CN/zh_TW and so on
+  lang: zh_CN # Language en_US/zh_CN/zh_TW and so on
 
 # Twikoo
 # https://github.com/imaegoo/twikoo
