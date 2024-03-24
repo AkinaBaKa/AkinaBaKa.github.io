@@ -1,5 +1,5 @@
 ---
-title: 標籤
+title: 标签
 date: 
 type: "tags"
 orderby: random
