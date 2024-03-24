@@ -18,7 +18,7 @@ menu:
      Game: /categories/游戏/ || fas fa-gamepad
   #   Movie: /movies/ || fas fa-video
   #Link: /link/ || fas fa-link
-   About: /about/ || fas fa-heart
+   简介: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
