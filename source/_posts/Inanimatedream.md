@@ -9,5 +9,7 @@ top_img: /img/标题9id.png
 keywords: Mushup
 tags:
  音乐
+ Mushup
+categories: 音乐
 ---
 https://www.bilibili.com/video/BV1uc411x7dB/?spm_id_from=333.999.0.0
