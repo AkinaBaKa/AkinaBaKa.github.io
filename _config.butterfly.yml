@@ -236,7 +236,6 @@ aside:
   card_announcement:
     enable: true
     content: 欢迎来到笨蛋的小窝~
-    content: https://akinabaka.github.io/about/
 
   card_recent_post:
     enable: true
