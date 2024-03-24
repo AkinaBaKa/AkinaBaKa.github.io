@@ -17,7 +17,7 @@ menu:
      Music: /categories/音乐/ || fas fa-music
      Game: /categories/游戏/ || fas fa-gamepad
   #   Movie: /movies/ || fas fa-video
-   Link: /link/ || fas fa-link
+  #Link: /link/ || fas fa-link
    About: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
@@ -236,6 +236,8 @@ aside:
   card_announcement:
     enable: true
     content: 欢迎来到笨蛋的小窝~
+    content: https://akinabaka.github.io/about/
+
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
