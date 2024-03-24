@@ -236,6 +236,7 @@ aside:
   card_announcement:
     enable: true
     content: 欢迎来到笨蛋的小窝~
+    content: 简介https://akinabaka.github.io/about/
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
