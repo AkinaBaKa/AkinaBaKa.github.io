@@ -13,4 +13,4 @@ categories: 资源
 date: 2024-04-22
 ---
 lunate的flp压缩包 [点击下载](/download/lunate.zip)
-C Primer plus第六版编程练习答案 [点击下载](/download/C Primer Plus第6版编程练习答案.pdf)
+C Primer plus第六版编程练习答案 [点击下载](/download/Cpp.pdf)

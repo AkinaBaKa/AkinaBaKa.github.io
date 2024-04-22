@@ -16,7 +16,7 @@ menu:
    List||fas fa-list:
      Music: /categories/音乐/ || fas fa-music
      Game: /categories/游戏/ || fas fa-gamepad
-     C语言: /categories/资源/ ||fas fa-link
+     Sourse: /categories/资源/ ||fas fa-link
   #   Movie: /movies/ || fas fa-video
   #Link: /link/ || fas fa-link
    简介: /about/ || fas fa-heart
