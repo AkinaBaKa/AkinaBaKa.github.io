@@ -1,17 +1,15 @@
 ---
-title: 【C语言】C primer plus第六版习题答案
-cover: 
+title: 一些资源分享
+cover: /img/VS2022背景.jpg
 index_enable: true
 aside_enable: true
 archives_enable: true
 position: both
-top_img: 
+top_img: /img/VS2022背景.jpg
 keywords: 
 tags:
- - C语言
- - CPP
- - 习题答案
-categories: C语言
-
+ - 资源分享
+categories: 资源
+date: 2024-04-22
 ---
-[点击下载](/download/lunate.zip)
+lunate的flp压缩包[点击下载](/download/lunate.zip)
