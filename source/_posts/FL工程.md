@@ -13,4 +13,6 @@ categories: 资源
 date: 2024-04-22
 ---
 lunate的flp压缩包 [点击下载](/download/lunate.zip)
-夜雀的flp压缩包 [点击下载](/download/NightBird.zip)
+夜雀的flp压缩包 [点击下载](/download/雀.zip)
+**有笨蛋**
+[野鸡](/download/NightBird.mp3)
