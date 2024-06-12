@@ -7,3 +7,4 @@ type: "about"
 会分享一些好东西（
 qq：1775911364.
 笨蛋建设中...
+[MarkDown写法参考](https://theme-hope.vuejs.press/zh/cookbook/markdown/demo.html)

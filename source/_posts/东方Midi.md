@@ -15,6 +15,7 @@ categories: 游戏
 date: 2024-06-12
 ---
 
+东方游戏/专辑的Midi分享
 **直接下载**
 [点击下载](/download/东方midi音乐文件.zip)
 
