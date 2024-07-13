@@ -34,7 +34,7 @@
     <content><![CDATA[<p>lunate的flp压缩包 <a href="/download/lunate.zip">点击下载</a><br>夜雀的flp压缩包 <a href="/download/%E9%9B%80.zip">点击下载</a></p>
 <p><a href="/download/Nightbird.mp3">111</a></p>
 <script src="https://utteranc.es/client.js"
-        repo="AkinaBaKa/akinabaka@github.io"
+        repo="AkinaBaKa/AkinaBaKa@github.io"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
@@ -76,20 +76,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【东方同人音乐】困~Sleepless</title>
-    <url>/Sleepless/</url>
-    <content><![CDATA[<p><a href="https://www.bilibili.com/video/BV1bH4y1679r">https://www.bilibili.com/video/BV1bH4y1679r</a></p>
-]]></content>
-      <categories>
-        <category>音乐</category>
-      </categories>
-      <tags>
-        <tag>音乐</tag>
-        <tag>Remix</tag>
-        <tag>Trance</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【东方游戏资源】原曲Midi</title>
     <url>/%E4%B8%9C%E6%96%B9Midi/</url>
     <content><![CDATA[<p>东方游戏&#x2F;专辑的Midi分享<br><strong>直接下载</strong><br><a href="/download/%E4%B8%9C%E6%96%B9midi%E9%9F%B3%E4%B9%90%E6%96%87%E4%BB%B6.zip">点击下载</a></p>
@@ -102,6 +88,20 @@
         <tag>游戏</tag>
         <tag>资源</tag>
         <tag>Midi</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【东方同人音乐】困~Sleepless</title>
+    <url>/Sleepless/</url>
+    <content><![CDATA[<p><a href="https://www.bilibili.com/video/BV1bH4y1679r">https://www.bilibili.com/video/BV1bH4y1679r</a></p>
+]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+        <tag>Remix</tag>
+        <tag>Trance</tag>
       </tags>
   </entry>
   <entry>
