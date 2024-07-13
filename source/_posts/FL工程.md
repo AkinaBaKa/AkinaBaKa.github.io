@@ -21,12 +21,4 @@ lunate的flp压缩包 [点击下载](/download/lunate.zip)
 
 
 bendan
----
-<script src="https://utteranc.es/client.js"
-        repo="AkinaBaKa/AkinaBaKa.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
----
+
