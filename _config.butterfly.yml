@@ -13,14 +13,14 @@ menu:
    档案: /archives/ || fas fa-archive
    标签: /tags/ || fas fa-tags
    #类别: /categories/ || fas fa-folder-open
+   简介: /about/ || fas fa-heart
+   留言: /feedback/ || fas fa-envelope
    类别||fas fa-list:
      音乐: /categories/音乐/ || fas fa-music
      游戏: /categories/游戏/ || fas fa-gamepad
      资源: /categories/资源/ ||fas fa-link
   #   Movie: /movies/ || fas fa-video
   #Link: /link/ || fas fa-link
-   简介: /about/ || fas fa-heart
-   留言: /Feedback/ || fas fa-envelope
 
 # Code Blocks (代碼相關)
 # --------------------------------------
