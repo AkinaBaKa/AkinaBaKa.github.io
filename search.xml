@@ -72,20 +72,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【东方同人音乐】困~Sleepless</title>
-    <url>/%E4%B8%9C%E6%96%B9%E9%9F%B3%E4%B9%90Sleepless/</url>
-    <content><![CDATA[<p>点击试听<a href="https://www.bilibili.com/video/BV1bH4y1679r">B站</a></p>
-]]></content>
-      <categories>
-        <category>音乐</category>
-      </categories>
-      <tags>
-        <tag>音乐</tag>
-        <tag>Remix</tag>
-        <tag>Trance</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【东方同人音乐】纯心~Pureness</title>
     <url>/%E4%B8%9C%E6%96%B9%E9%9F%B3%E4%B9%90Pureness/</url>
     <content><![CDATA[<p>点击试听<a href="https://www.bilibili.com/video/BV1SN411v7DF">B站</a></p>
@@ -100,10 +86,24 @@
       </tags>
   </entry>
   <entry>
+    <title>【东方同人音乐】困~Sleepless</title>
+    <url>/%E4%B8%9C%E6%96%B9%E9%9F%B3%E4%B9%90Sleepless/</url>
+    <content><![CDATA[<p>点击试听<a href="https://www.bilibili.com/video/BV1bH4y1679r">B站</a></p>
+]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+        <tag>Remix</tag>
+        <tag>Trance</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【持续更新】C语言程序设计代码大全</title>
     <url>/%E4%BB%A3%E7%A0%81/</url>
     <content><![CDATA[<h1 id="北理工LeXue乐学题目"><a href="#北理工LeXue乐学题目" class="headerlink" title="北理工LeXue乐学题目"></a><strong>北理工LeXue乐学题目</strong></h1><h2 id="图形题"><a href="#图形题" class="headerlink" title="图形题"></a><strong>图形题</strong></h2><h3 id="2024-06-25-打印字母”G”"><a href="#2024-06-25-打印字母”G”" class="headerlink" title="2024.06.25 打印字母”G”"></a>2024.06.25 打印字母”G”</h3> <figure class="highlight scss"><table><tr><td class="code"><pre><code class="hljs scss"><span class="hljs-selector-id">#include</span> &lt;stdio<span class="hljs-selector-class">.h</span>&gt;<br>int <span class="hljs-selector-tag">main</span>()<br>&#123;<br>	int num;<br>	<span class="hljs-built_in">scanf</span>(&quot;%d&quot;,&amp;num);<br>	<span class="hljs-built_in">for</span>(int n=<span class="hljs-number">0</span>;n&lt;<span class="hljs-number">2</span>*num-<span class="hljs-number">1</span>;n++)<br>		<span class="hljs-built_in">printf</span>(&quot;G&quot;);<br>	<span class="hljs-built_in">printf</span>(&quot;\n&quot;);<br>	<span class="hljs-built_in">for</span>(int y=<span class="hljs-number">0</span>;y&lt;num-<span class="hljs-number">2</span>;y++)<br>	&#123;<br>		<span class="hljs-built_in">printf</span>(&quot;G&quot;);<br>		<span class="hljs-built_in">for</span>(int n=<span class="hljs-number">0</span>;n&lt;<span class="hljs-number">2</span>*num-<span class="hljs-number">2</span>;n++)<br>			<span class="hljs-built_in">printf</span>(&quot;+&quot;);<br>		<span class="hljs-built_in">printf</span>(&quot;\n&quot;);<br>	&#125;<br>	<span class="hljs-built_in">printf</span>(&quot;G&quot;);<br>	<span class="hljs-built_in">for</span>(int n=<span class="hljs-number">0</span>;n&lt;<span class="hljs-number">2</span>*num-<span class="hljs-number">2</span>-num;n++)<br>		<span class="hljs-built_in">printf</span>(&quot;+&quot;);<br>	<span class="hljs-built_in">for</span>(int n=<span class="hljs-number">0</span>;n&lt;num;n++)<br>		<span class="hljs-built_in">printf</span>(&quot;G&quot;);<br>	<span class="hljs-built_in">printf</span>(&quot;\n&quot;);<br>	<span class="hljs-built_in">for</span>(int y=<span class="hljs-number">0</span>;y&lt;num-<span class="hljs-number">2</span>;y++)<br>	&#123;<br>		<span class="hljs-built_in">printf</span>(&quot;G&quot;);<br>		<span class="hljs-built_in">for</span>(int n=<span class="hljs-number">0</span>;n&lt;<span class="hljs-number">2</span>*num-<span class="hljs-number">3</span>;n++)<br>			<span class="hljs-built_in">printf</span>(&quot;+&quot;);<br>		<span class="hljs-built_in">printf</span>(&quot;G\n&quot;);<br>	&#125;<br>	<span class="hljs-built_in">for</span>(int n=<span class="hljs-number">0</span>;n&lt;<span class="hljs-number">2</span>*num-<span class="hljs-number">1</span>;n++)<br>		<span class="hljs-built_in">printf</span>(&quot;G&quot;);<br>	<span class="hljs-built_in">printf</span>(&quot;\n&quot;);<br>	return <span class="hljs-number">0</span>;<br>&#125;<br></code></pre></td></tr></table></figure>
-<h2 id="链表题"><a href="#链表题" class="headerlink" title="链表题"></a><strong>链表题</strong></h2><h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a><strong>其他</strong></h1><h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2>]]></content>
+<h2 id="链表题"><a href="#链表题" class="headerlink" title="链表题"></a><strong>链表题</strong></h2><h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a><strong>其他</strong></h1><h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><h2 id="22"><a href="#22" class="headerlink" title="22"></a>22</h2>]]></content>
       <categories>
         <category>代码</category>
       </categories>
