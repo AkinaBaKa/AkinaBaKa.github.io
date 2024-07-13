@@ -19,10 +19,10 @@
 
 :root {
 	--hl-color: #fff;
-	--hl-bg: #828282;
+	--hl-bg: #303030;
 	--hltools-bg: #00bfff;
 	--hltools-color: #fff;
-	--hlnumber-bg: #fff;
+	--hlnumber-bg: #303030;
 	--hlnumber-color: #fff;
 	--hlscrollbar-bg: #d3af86;
 	--hlexpand-bg: #d3af86;
