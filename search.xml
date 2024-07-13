@@ -34,7 +34,7 @@
     <content><![CDATA[<p>lunate的flp压缩包 <a href="/download/lunate.zip">点击下载</a><br>夜雀的flp压缩包 <a href="/download/%E9%9B%80.zip">点击下载</a></p>
 <p><a href="/download/Nightbird.mp3">111</a></p>
 <script src="https://utteranc.es/client.js"
-        repo="AkinaBaKa/AkinaBaKa@github.io"
+        repo=c
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
