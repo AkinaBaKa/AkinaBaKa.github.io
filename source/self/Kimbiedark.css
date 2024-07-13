@@ -43,7 +43,7 @@
   .hljs-selector-class,
   .hljs-regexp,
   .hljs-meta {
-	color: #dc3958;
+	color: #ff5e00;
   }
   
   /* Kimbie Orange 函数 */
@@ -55,7 +55,7 @@
   .hljs-params,
   .hljs-deletion,
   .hljs-link {
-	color: #f79a32;
+	color: #00ccff;
   }
   
   /* Kimbie Yellow */
@@ -77,7 +77,7 @@
   .hljs-keyword,
   .hljs-selector-tag,
   .hljs-function {
-	color: #98676a;
+	color: #00ffaa;
   }
   
   /* 更改的內容 把.hljs改為 #article-container figure.highlight .hljs *、
@@ -85,7 +85,7 @@
   #article-container figure.highlight .hljs {
 	display: block;
 	overflow-x: auto;
-	background: #828282;
+	background: #000000;
 	color: #fff;
 	padding: 0.5em;
   }
