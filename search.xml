@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>【东方同人音乐】~Autumn Faith</title>
-    <url>/Autumn/</url>
-    <content><![CDATA[<p><a href="https://www.bilibili.com/video/BV1ac411q7xi">https://www.bilibili.com/video/BV1ac411q7xi</a></p>
-]]></content>
-      <categories>
-        <category>音乐</category>
-      </categories>
-      <tags>
-        <tag>音乐</tag>
-        <tag>Deep House</tag>
-        <tag>Remix</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【东方同人音乐】~Drizzle</title>
     <url>/Drizzle/</url>
     <content><![CDATA[<p><a href="https://www.bilibili.com/video/BV1FJ4m1e7fk">https://www.bilibili.com/video/BV1FJ4m1e7fk</a></p>
@@ -24,8 +10,22 @@
       </categories>
       <tags>
         <tag>音乐</tag>
-        <tag>Remix</tag>
         <tag>Melodic Dubstep</tag>
+        <tag>Remix</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【东方同人音乐】~Autumn Faith</title>
+    <url>/Autumn/</url>
+    <content><![CDATA[<p><a href="https://www.bilibili.com/video/BV1ac411q7xi">https://www.bilibili.com/video/BV1ac411q7xi</a></p>
+]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+        <tag>Remix</tag>
+        <tag>Deep House</tag>
       </tags>
   </entry>
   <entry>
@@ -34,7 +34,7 @@
     <content><![CDATA[<p>lunate的flp压缩包 <a href="/download/lunate.zip">点击下载</a><br>夜雀的flp压缩包 <a href="/download/%E9%9B%80.zip">点击下载</a></p>
 <p><a href="/download/Nightbird.mp3">111</a></p>
 <script src="https://utteranc.es/client.js"
-        repo=c
+        repo="AkinaBaKa/AkinaBaKa.github.io"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
