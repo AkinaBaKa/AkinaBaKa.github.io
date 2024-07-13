@@ -20,7 +20,7 @@
 :root {
 	--hl-color: #fff;
 	--hl-bg: #303030;
-	--hltools-bg: #00bfff;
+	--hltools-bg: #00a2ff;
 	--hltools-color: #fff;
 	--hlnumber-bg: #303030;
 	--hlnumber-color: #fff;
@@ -55,14 +55,14 @@
   .hljs-params,
   .hljs-deletion,
   .hljs-link {
-	color: #00ccff;
+	color: #2df1ff;
   }
   
   /* Kimbie Yellow */
   .hljs-title,
   .hljs-section,
   .hljs-attribute {
-	color: #f06431;
+	color: #fd713f;
   }
   
   /* Kimbie Green */
