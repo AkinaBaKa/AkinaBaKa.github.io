@@ -72,20 +72,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【东方同人音乐】困~Sleepless</title>
-    <url>/%E4%B8%9C%E6%96%B9%E9%9F%B3%E4%B9%90Sleepless/</url>
-    <content><![CDATA[<p>点击试听<a href="https://www.bilibili.com/video/BV1bH4y1679r">B站</a></p>
-]]></content>
-      <categories>
-        <category>音乐</category>
-      </categories>
-      <tags>
-        <tag>音乐</tag>
-        <tag>Remix</tag>
-        <tag>Trance</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【东方同人音乐】纯心~Pureness</title>
     <url>/%E4%B8%9C%E6%96%B9%E9%9F%B3%E4%B9%90Pureness/</url>
     <content><![CDATA[<p>点击试听<a href="https://www.bilibili.com/video/BV1SN411v7DF">B站</a></p>
@@ -100,10 +86,23 @@
       </tags>
   </entry>
   <entry>
+    <title>【东方同人音乐】困~Sleepless</title>
+    <url>/%E4%B8%9C%E6%96%B9%E9%9F%B3%E4%B9%90Sleepless/</url>
+    <content><![CDATA[<p>点击试听<a href="https://www.bilibili.com/video/BV1bH4y1679r">B站</a></p>
+]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+        <tag>Remix</tag>
+        <tag>Trance</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【持续更新】C语言程序设计代码大全</title>
     <url>/%E4%BB%A3%E7%A0%81/</url>
-    <content><![CDATA[<p>123</p>
-]]></content>
+    <content><![CDATA[<h2 id="图形题"><a href="#图形题" class="headerlink" title="图形题"></a><strong>图形题</strong></h2><h2 id="2024-06-25-北理工乐学题目-图形题-打印字母”G”"><a href="#2024-06-25-北理工乐学题目-图形题-打印字母”G”" class="headerlink" title="2024.06.25 北理工乐学题目 图形题 打印字母”G”"></a><strong>2024.06.25 北理工乐学题目 图形题 打印字母”G”</strong><br><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">#include &lt;stdio.h&gt;</span><br><span class="line">int main()</span><br><span class="line">&#123;</span><br><span class="line">	int num;</span><br><span class="line">	scanf(&quot;%d&quot;,&amp;num);</span><br><span class="line">	for(int n=0;n&lt;2*num-1;n++)</span><br><span class="line">		printf(&quot;G&quot;);</span><br><span class="line">	printf(&quot;\n&quot;);</span><br><span class="line">	for(int y=0;y&lt;num-2;y++)</span><br><span class="line">	&#123;</span><br><span class="line">		printf(&quot;G&quot;);</span><br><span class="line">		for(int n=0;n&lt;2*num-2;n++)</span><br><span class="line">			printf(&quot;+&quot;);</span><br><span class="line">		printf(&quot;\n&quot;);</span><br><span class="line">	&#125;</span><br><span class="line">	printf(&quot;G&quot;);</span><br><span class="line">	for(int n=0;n&lt;2*num-2-num;n++)</span><br><span class="line">		printf(&quot;+&quot;);</span><br><span class="line">	for(int n=0;n&lt;num;n++)</span><br><span class="line">		printf(&quot;G&quot;);</span><br><span class="line">	printf(&quot;\n&quot;);</span><br><span class="line">	for(int y=0;y&lt;num-2;y++)</span><br><span class="line">	&#123;</span><br><span class="line">		printf(&quot;G&quot;);</span><br><span class="line">		for(int n=0;n&lt;2*num-3;n++)</span><br><span class="line">			printf(&quot;+&quot;);</span><br><span class="line">		printf(&quot;G\n&quot;);</span><br><span class="line">	&#125;</span><br><span class="line">	for(int n=0;n&lt;2*num-1;n++)</span><br><span class="line">		printf(&quot;G&quot;);</span><br><span class="line">	printf(&quot;\n&quot;);</span><br><span class="line">	return 0;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></h2><h2 id="链表题"><a href="#链表题" class="headerlink" title="链表题"></a><strong>链表题</strong></h2><h2 id="123"><a href="#123" class="headerlink" title="123"></a>123</h2>]]></content>
       <categories>
         <category>代码</category>
       </categories>
