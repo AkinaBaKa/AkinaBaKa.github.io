@@ -1,76 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>【东方同人音乐】~Autumn Faith</title>
-    <url>/Autumn/</url>
-    <content><![CDATA[<p><a href="https://www.bilibili.com/video/BV1ac411q7xi">https://www.bilibili.com/video/BV1ac411q7xi</a></p>
-]]></content>
-      <categories>
-        <category>音乐</category>
-      </categories>
-      <tags>
-        <tag>音乐</tag>
-        <tag>Deep House</tag>
-        <tag>Remix</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【东方同人音乐】~Drizzle</title>
-    <url>/Drizzle/</url>
-    <content><![CDATA[<p><a href="https://www.bilibili.com/video/BV1FJ4m1e7fk">https://www.bilibili.com/video/BV1FJ4m1e7fk</a></p>
-]]></content>
-      <categories>
-        <category>音乐</category>
-      </categories>
-      <tags>
-        <tag>音乐</tag>
-        <tag>Remix</tag>
-        <tag>Melodic Dubstep</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【东方同人音乐】幽梦~Inanimate Dream</title>
-    <url>/Inanimatedream/</url>
-    <content><![CDATA[<p><a href="https://www.bilibili.com/video/BV1uc411x7dB">https://www.bilibili.com/video/BV1uc411x7dB</a></p>
-]]></content>
-      <categories>
-        <category>音乐</category>
-      </categories>
-      <tags>
-        <tag>音乐</tag>
-        <tag>Remix</tag>
-        <tag>Mushup</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【东方同人音乐】纯心~Pureness</title>
-    <url>/Pureness/</url>
-    <content><![CDATA[<p><a href="https://www.bilibili.com/video/BV1SN411v7DF">https://www.bilibili.com/video/BV1SN411v7DF</a></p>
-]]></content>
-      <categories>
-        <category>音乐</category>
-      </categories>
-      <tags>
-        <tag>音乐</tag>
-        <tag>Remix</tag>
-        <tag>Trance</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【东方同人音乐】困~Sleepless</title>
-    <url>/Sleepless/</url>
-    <content><![CDATA[<p><a href="https://www.bilibili.com/video/BV1bH4y1679r">https://www.bilibili.com/video/BV1bH4y1679r</a></p>
-]]></content>
-      <categories>
-        <category>音乐</category>
-      </categories>
-      <tags>
-        <tag>音乐</tag>
-        <tag>Remix</tag>
-        <tag>Trance</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【东方游戏资源】原曲Midi</title>
     <url>/%E4%B8%9C%E6%96%B9Midi/</url>
     <content><![CDATA[<p>东方游戏&#x2F;专辑的Midi分享<br><strong>直接下载</strong><br><a href="/download/%E4%B8%9C%E6%96%B9midi%E9%9F%B3%E4%B9%90%E6%96%87%E4%BB%B6.zip">点击下载</a></p>
@@ -83,6 +13,90 @@
         <tag>游戏</tag>
         <tag>资源</tag>
         <tag>Midi</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【东方同人音乐】~Drizzle</title>
+    <url>/%E4%B8%9C%E6%96%B9%E9%9F%B3%E4%B9%90Drizzle/</url>
+    <content><![CDATA[<p>点击试听[B站](<a href="https://www.bilibili.com/video/BV1FJ4m1e7fk%EF%BC%89">https://www.bilibili.com/video/BV1FJ4m1e7fk）</a></p>
+]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+        <tag>Melodic Dubstep</tag>
+        <tag>Remix</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【东方同人音乐】~Autumn Faith</title>
+    <url>/%E4%B8%9C%E6%96%B9%E9%9F%B3%E4%B9%90Autumn/</url>
+    <content><![CDATA[<p>点击试听[B站](<a href="https://www.bilibili.com/video/BV1ac411q7xi%EF%BC%89">https://www.bilibili.com/video/BV1ac411q7xi）</a></p>
+]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+        <tag>Remix</tag>
+        <tag>Deep House</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【东方同人音乐】~Drizzle[Remix]</title>
+    <url>/%E4%B8%9C%E6%96%B9%E9%9F%B3%E4%B9%90DrizzleRemix/</url>
+    <content><![CDATA[<p>点击试听[B站](<a href="https://www.bilibili.com/video/BV1sZ421T7ik/%EF%BC%89">https://www.bilibili.com/video/BV1sZ421T7ik/）</a></p>
+]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+        <tag>Melodic Dubstep</tag>
+        <tag>Remix</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【东方同人音乐】幽梦~Inanimate Dream</title>
+    <url>/%E4%B8%9C%E6%96%B9%E9%9F%B3%E4%B9%90Inanimatedream/</url>
+    <content><![CDATA[<p>点击试听[B站](<a href="https://www.bilibili.com/video/BV1uc411x7dB%EF%BC%89">https://www.bilibili.com/video/BV1uc411x7dB）</a></p>
+]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+        <tag>Remix</tag>
+        <tag>Mushup</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【东方同人音乐】纯心~Pureness</title>
+    <url>/%E4%B8%9C%E6%96%B9%E9%9F%B3%E4%B9%90Pureness/</url>
+    <content><![CDATA[<p>点击试听[B站](<a href="https://www.bilibili.com/video/BV1SN411v7DF%EF%BC%89">https://www.bilibili.com/video/BV1SN411v7DF）</a></p>
+]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+        <tag>Remix</tag>
+        <tag>Trance</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【东方同人音乐】困~Sleepless</title>
+    <url>/%E4%B8%9C%E6%96%B9%E9%9F%B3%E4%B9%90Sleepless/</url>
+    <content><![CDATA[<p>点击试听<a href="https://www.bilibili.com/video/BV1bH4y1679r">B站</a></p>
+]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+        <tag>Remix</tag>
+        <tag>Trance</tag>
       </tags>
   </entry>
   <entry>
