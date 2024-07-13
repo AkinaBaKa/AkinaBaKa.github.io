@@ -33,26 +33,18 @@
     <url>/FL%E5%B7%A5%E7%A8%8B/</url>
     <content><![CDATA[<p>lunate的flp压缩包 <a href="/download/lunate.zip">点击下载</a><br>夜雀的flp压缩包 <a href="/download/%E9%9B%80.zip">点击下载</a></p>
 <p><a href="/download/Nightbird.mp3">111</a></p>
-]]></content>
+<script src="https://utteranc.es/client.js"
+        repo="AkinaBaKa/akinabaka@github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>]]></content>
       <categories>
         <category>资源</category>
       </categories>
       <tags>
         <tag>资源分享</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【东方同人音乐】纯心~Pureness</title>
-    <url>/Pureness/</url>
-    <content><![CDATA[<p><a href="https://www.bilibili.com/video/BV1SN411v7DF">https://www.bilibili.com/video/BV1SN411v7DF</a></p>
-]]></content>
-      <categories>
-        <category>音乐</category>
-      </categories>
-      <tags>
-        <tag>音乐</tag>
-        <tag>Remix</tag>
-        <tag>Trance</tag>
       </tags>
   </entry>
   <entry>
@@ -67,6 +59,20 @@
         <tag>音乐</tag>
         <tag>Remix</tag>
         <tag>Mushup</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【东方同人音乐】纯心~Pureness</title>
+    <url>/Pureness/</url>
+    <content><![CDATA[<p><a href="https://www.bilibili.com/video/BV1SN411v7DF">https://www.bilibili.com/video/BV1SN411v7DF</a></p>
+]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+        <tag>Remix</tag>
+        <tag>Trance</tag>
       </tags>
   </entry>
   <entry>
