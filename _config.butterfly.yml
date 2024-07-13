@@ -19,6 +19,7 @@ menu:
      音乐: /categories/音乐/ || fas fa-music
      游戏: /categories/游戏/ || fas fa-gamepad
      资源: /categories/资源/ ||fas fa-link
+     代码: /categories/代码/ ||fas fa-code
   #   Movie: /movies/ || fas fa-video
   #Link: /link/ || fas fa-link
 
