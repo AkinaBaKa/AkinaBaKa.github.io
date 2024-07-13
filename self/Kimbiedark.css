@@ -28,13 +28,13 @@
 	--hlexpand-bg: #d3af86;
   }
   
-  /* Kimbie Comment */
+  /* Kimbie Comment 文字颜色*/
   .hljs-comment,
   .hljs-quote {
-	color: #d6baad;
+	color: #fff;
   }
   
-  /* Kimbie Red */
+  /* Kimbie Red include*/
   .hljs-variable,
   .hljs-template-variable,
   .hljs-tag,
@@ -46,7 +46,7 @@
 	color: #dc3958;
   }
   
-  /* Kimbie Orange */
+  /* Kimbie Orange 函数 */
   .hljs-number,
   .hljs-built_in,
   .hljs-builtin-name,
@@ -85,8 +85,8 @@
   #article-container figure.highlight .hljs {
 	display: block;
 	overflow-x: auto;
-	background: #221a0f;
-	color: #d3af86;
+	background: #dcdcdc;
+	color: #fff;
 	padding: 0.5em;
   }
   
