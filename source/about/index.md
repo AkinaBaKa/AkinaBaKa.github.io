@@ -8,11 +8,3 @@ type: "about"
 qq：1775911364.
 笨蛋建设中...
 [MarkDown写法参考](https://theme-hope.vuejs.press/zh/cookbook/markdown/demo.html)
-
-<script src="https://utteranc.es/client.js"
-        repo="AkinaBaKa/AkinaBaKa.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
