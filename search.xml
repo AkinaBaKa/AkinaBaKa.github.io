@@ -43,20 +43,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【东方同人音乐】幽梦~Inanimate Dream</title>
-    <url>/Inanimatedream/</url>
-    <content><![CDATA[<p><a href="https://www.bilibili.com/video/BV1uc411x7dB">https://www.bilibili.com/video/BV1uc411x7dB</a></p>
-]]></content>
-      <categories>
-        <category>音乐</category>
-      </categories>
-      <tags>
-        <tag>音乐</tag>
-        <tag>Remix</tag>
-        <tag>Mushup</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【东方同人音乐】纯心~Pureness</title>
     <url>/Pureness/</url>
     <content><![CDATA[<p><a href="https://www.bilibili.com/video/BV1SN411v7DF">https://www.bilibili.com/video/BV1SN411v7DF</a></p>
@@ -71,6 +57,20 @@
       </tags>
   </entry>
   <entry>
+    <title>【东方同人音乐】幽梦~Inanimate Dream</title>
+    <url>/Inanimatedream/</url>
+    <content><![CDATA[<p><a href="https://www.bilibili.com/video/BV1uc411x7dB">https://www.bilibili.com/video/BV1uc411x7dB</a></p>
+]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+        <tag>Remix</tag>
+        <tag>Mushup</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【东方同人音乐】困~Sleepless</title>
     <url>/Sleepless/</url>
     <content><![CDATA[<p><a href="https://www.bilibili.com/video/BV1bH4y1679r">https://www.bilibili.com/video/BV1bH4y1679r</a></p>
@@ -82,19 +82,6 @@
         <tag>音乐</tag>
         <tag>Remix</tag>
         <tag>Trance</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【东方同人游戏】琪露诺的冰屋（已更新4.1版本）</title>
-    <url>/%E5%86%B0%E5%B1%8B/</url>
-    <content><![CDATA[<p>网盘下载（Win旧版）：<a href="https://pan.quark.cn/s/498b7200a746#/list/share">点击下载</a><br><strong>直接下载</strong><br>Win版:<a href="/download/%E5%86%B0%E5%B1%8BWin4.1.rar">点击下载</a><br>Mac版:<a href="/download/%E5%86%B0%E5%B1%8BMac.rar">点击下载</a><br>2024&#x2F;5&#x2F;18</p>
-]]></content>
-      <categories>
-        <category>游戏</category>
-      </categories>
-      <tags>
-        <tag>游戏</tag>
-        <tag>弹幕射击</tag>
       </tags>
   </entry>
   <entry>
@@ -113,16 +100,22 @@
       </tags>
   </entry>
   <entry>
+    <title>【东方同人游戏】琪露诺的冰屋（已更新4.1版本）</title>
+    <url>/%E5%86%B0%E5%B1%8B/</url>
+    <content><![CDATA[<p>网盘下载（Win旧版）：<a href="https://pan.quark.cn/s/498b7200a746#/list/share">点击下载</a><br><strong>直接下载</strong><br>Win版:<a href="/download/%E5%86%B0%E5%B1%8BWin4.1.rar">点击下载</a><br>Mac版:<a href="/download/%E5%86%B0%E5%B1%8BMac.rar">点击下载</a><br>2024&#x2F;5&#x2F;18</p>
+]]></content>
+      <categories>
+        <category>游戏</category>
+      </categories>
+      <tags>
+        <tag>游戏</tag>
+        <tag>弹幕射击</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>一些资源分享</title>
     <url>/%E8%B5%84%E6%BA%90/</url>
     <content><![CDATA[<p>C Primer plus第六版编程练习答案 <a href="/download/Cpp.pdf">点击下载</a><br>琪露诺的冰屋（4.1新版本）：<a href="https://akinabaka.github.io/%E5%86%B0%E5%B1%8B/">点击下载</a></p>
-<script src="https://utteranc.es/client.js"
-        repo="AkinaBaKa/AkinaBaKa.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
 ]]></content>
       <categories>
         <category>资源</category>
