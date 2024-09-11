@@ -1,11 +1,11 @@
 ---
 title: 【东方同人音乐】~妖怪宇宙旅行 (Akina Remix)
-cover: /img/背景endlessspace.jpg
+cover: /img/封面ykst.png
 index_enable: true
 aside_enable: true
 archives_enable: true
 position: both
-top_img: /img/封面ykst.png
+top_img: /img/背景endlessspace.jpg
 keywords: 
 tags:
  - 音乐
