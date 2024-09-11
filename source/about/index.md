@@ -8,3 +8,8 @@ type: "about"
 qq：1775911364.
 笨蛋建设中...
 [MarkDown写法参考](https://theme-hope.vuejs.press/zh/cookbook/markdown/demo.html)
+<details>
+<summary>展开查看</summary>
+<pre><code>
+</code></pre>
+</details>
