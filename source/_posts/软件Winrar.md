@@ -15,5 +15,6 @@ date: 2024-08-24
 updated: 2024-08-24
 ---
 **直接下载**
+感觉好多人都需要这个...
 Win版:[点击下载](/download/WinRAR_v6.11_x64_SC_Repack.exe)
 2024/08/24
